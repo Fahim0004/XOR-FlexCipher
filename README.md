@@ -20,7 +20,7 @@
 
 <h2 align="center" style="color:#2980b9;"><strong> Algorithm Name</strong></h2>
 
-<h1 align="center" style="color:#8e44ad;"><strong>🔐 GCP Cipher</strong></h1>
+<h1 align="center" style="color:#8e44ad;"><strong>🔐 XOR-FlexCipher</strong></h1>
 
 ---
 
